@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "720242368311",
+    "project_id": "group-chat-75971",
+    "storage_bucket": "group-chat-75971.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720242368311:android:62e9fca56f7f16355c44b2",
+        "android_client_info": {
+          "package_name": "com.blu.group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720242368311-88uuse6mk734hkc26tes39cslud9p2st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_p0gi0cVl50mlfyGekalU_AxiSwqpHOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720242368311-88uuse6mk734hkc26tes39cslud9p2st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720242368311:android:f80bc515596d15be5c44b2",
+        "android_client_info": {
+          "package_name": "com.example.group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720242368311-88uuse6mk734hkc26tes39cslud9p2st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_p0gi0cVl50mlfyGekalU_AxiSwqpHOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720242368311-88uuse6mk734hkc26tes39cslud9p2st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
